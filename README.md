@@ -1,5 +1,5 @@
 # Proyecto Pinguica
-Proyecto de desarrollo cultural [http://pinguica.gtocolabora.org](http://pinguica.gtocolabora.org)
+Proyecto de desarrollo cultural [http://proyectopinguica.gtocolabora.org](http://proyectopinguica.gtocolabora.org)
 
 ###Portafolio
 
