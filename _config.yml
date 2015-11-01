@@ -37,17 +37,6 @@ people:
     - title: email
       url: abc.erick777@gmail.com
 
-- name: Raúl Baena García
-  pic: raul
-  position: Relaciones Públicas
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: https://www.facebook.com/raul.baenagarcia
-    - title: email
-      url: raul.baena.g@gmail.com
-
 - name: Lorena Urzúa
   pic: lore
   position: Diseño
@@ -69,6 +58,17 @@ people:
       url: https://www.facebook.com/alina.pedroza.16
     - title: email
       url: alinagpe@gmail.com
+
+- name: Raúl Baena García
+  pic: raul
+  position: Relaciones Públicas
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: https://www.facebook.com/raul.baenagarcia
+    - title: email
+      url: raul.baena.g@gmail.com
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
