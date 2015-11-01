@@ -8,15 +8,15 @@ description: "Somos un centro que crea programas de formación artística que co
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: 85431E
-  secondary: CB2C30
-  secondary-dark: 3b0d0e
+  primary: 89421C
+  secondary: D12A2E
+  secondary-dark: 511011
 
 # Team names, titles and social links
 people:
-- name: Alina Perry Pedroza
+- name: Alina Guadalupe Pedroza López
   pic: alina
-  position: La chica buena onda
+  position: Dirección
   social:
     - title: twitter
       url: #
@@ -25,9 +25,9 @@ people:
     - title: google-plus
       url: #
 
-- name: Erick Rocha Larios
+- name: Erick Rocha
   pic: erick
-  position: El chico chido
+  position: Marketing
   social:
     - title: twitter
       url: #
@@ -36,9 +36,9 @@ people:
     - title: google-plus
       url: #
 
-- name: Lorena Alu Tuttifruti
+- name: Lorena Urzúa
   pic: lore
-  position: La chica cool
+  position: Diseño
   social:
     - title: twitter
       url: #
@@ -47,9 +47,9 @@ people:
     - title: google-plus
       url: #
 
-- name: Lu Xoco
+- name: Lucía Muñoz
   pic: lu
-  position: La chiquita
+  position: Diagnósticos
   social:
     - title: twitter
       url: #
@@ -60,7 +60,7 @@ people:
 
 - name: Raúl Baena García
   pic: raul
-  position: El Parrandero
+  position: Relaciones Públicas
   social:
     - title: twitter
       url: #
