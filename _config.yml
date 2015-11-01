@@ -1,44 +1,66 @@
-url: https://y7kim.github.io
-baseurl: /agency-jekyll-theme/
+url: proyectopinguica.gtocolabora.org
+baseurl:
 
 # Site settings
-title: Awesome Title
-email: your-email@domain.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+title: Pinguica
+email: proyectopinguica@gtocolabora.org
+description: "Somos un centro que crea programas de formación artística que contribuye a la reconstrucción del tejido social; favoreciendo la formación integral de los niños con el objetivo de sensibilizar y crear conciencia del contexto en el que viven, propiciando su desarrollo como agente de cambio para su entorno."
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: fed136
-  secondary: fec503  
-  secondary-dark: 333
+  primary: 85431E
+  secondary: CB2C30
+  secondary-dark: 3b0d0e
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
-  pic: 1
-  position: Lead Designer
+- name: Alina Perry Pedroza
+  pic: alina
+  position: La chica buena onda
   social:
     - title: twitter
       url: #
     - title: facebook
       url: #
-    - title: stack-overflow
+    - title: google-plus
       url: #
 
-- name: Larry Parker
-  pic: 2
-  position: Lead Marketer
+- name: Erick Rocha Larios
+  pic: erick
+  position: El chico chido
   social:
     - title: twitter
       url: #
     - title: facebook
       url: #
-    - title: linkedin
+    - title: google-plus
       url: #
 
-- name: Diana Petersen
-  pic: 3
-  position: Lead Developer
+- name: Lorena Alu Tuttifruti
+  pic: lore
+  position: La chica cool
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
+
+- name: Lu Xoco
+  pic: lu
+  position: La chiquita
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
+
+- name: Raúl Baena García
+  pic: raul
+  position: El Parrandero
   social:
     - title: twitter
       url: #
@@ -49,21 +71,21 @@ people:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: http://twitter.com/jekyllrb
+  # - title: twitter
+  #   url: http://twitter.com/jekyllrb
   - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket 
-    url: http://bitbucket.org/jekyll
+    url: https://www.facebook.com/ProyectoPinguica/
+  # - title: stack-overflow
+  #   url: http://stackoverflow.com/questions/tagged/jekyll
+  # - title: bitbucket
+  #   url: http://bitbucket.org/jekyll
   - title: github
-    url: http://github.com/jekyll
+    url: https://github.com/abcsds/Pinguica
 
 # Postal address (add as many lines as necessary)
-address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+# address:
+#   - line: 3481 Melrose Place
+#   - line: Beverly Hills, CA 90210
 
 # Build settings
 markdown: kramdown
