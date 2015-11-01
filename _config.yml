@@ -14,49 +14,28 @@ color:
 
 # Team names, titles and social links
 people:
-- name: Alina Guadalupe Pedroza López
-  pic: alina
-  position: Dirección
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
-
-- name: Erick Rocha
-  pic: erick
-  position: Marketing
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
-
-- name: Lorena Urzúa
-  pic: lore
-  position: Diseño
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
 
 - name: Lucía Muñoz
   pic: lu
   position: Diagnósticos
   social:
     - title: twitter
-      url: #
+      url: lu_spontanee
     - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+      url: https://www.facebook.com/LuXocoHuitzilli
+    - title: email
+      url: lu.huitzilli.xoco@gmail.com
+
+- name: Erick Rocha
+  pic: erick
+  position: Marketing
+  social:
+    - title: twitter
+      url: erick_tita
+    - title: facebook
+      url: https://www.facebook.com/erick.rochalarios
+    - title: email
+      url: abc.erick777@gmail.com
 
 - name: Raúl Baena García
   pic: raul
@@ -65,9 +44,31 @@ people:
     - title: twitter
       url: #
     - title: facebook
+      url: https://www.facebook.com/raul.baenagarcia
+    - title: email
+      url: raul.baena.g@gmail.com
+
+- name: Lorena Urzúa
+  pic: lore
+  position: Diseño
+  social:
+    - title: twitter
       url: #
-    - title: google-plus
+    - title: facebook
+      url: https://www.facebook.com/lorena.urzua
+    - title: email
+      url: xihuitl.xihuitl@gmail.com
+
+- name: Alina Guadalupe Pedroza López
+  pic: alina
+  position: Dirección
+  social:
+    - title: twitter
       url: #
+    - title: facebook
+      url: https://www.facebook.com/alina.pedroza.16
+    - title: email
+      url: alinagpe@gmail.com
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
